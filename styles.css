@@ -95,10 +95,11 @@
 .work-image{
     border: 4px solid turquoise;
     height: 180px;
-    width: 48.9%;
+    width: 48.5%;
     margin: 10px 0;
     display: flex;
     align-items: flex-end;
+    text-decoration: none;
 }
 
 .work-image h3 {
@@ -111,7 +112,7 @@
 .work-image--large {
     width: 100%;
     min-width: 100%;
-    background-image: url('./Assets/surf.jpg');
+    background-image: url('./Assets/day-trip.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
